@@ -14,6 +14,7 @@
 * [Discord Bot Reviews](discord-bot-lists/discordbotreviews.xyz.md)
 * [Discord Boats](discord-bot-lists/discord-boats.md)
 * [Divine Discord Bots](discord-bot-lists/divinediscordbots.com.md)
+* [Bots on Discord](discord-bot-lists/bots.ondiscord.xyz.md)
 
 ## Helpful Links
 
