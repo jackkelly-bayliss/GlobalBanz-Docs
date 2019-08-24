@@ -6,4 +6,5 @@
 ## Commands
 
 * [Commands List](commands/commands-list.md)
+* [How can I suggest a command or a change to a command?](commands/how-can-i-suggest-a-command-or-a-change-to-a-command.md)
 
