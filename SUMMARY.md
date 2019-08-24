@@ -10,7 +10,8 @@
 
 ## Discord Bot Lists
 
-* [Discord Bots](discord-bot-lists/discord-bots.md)
+* [Discord Bots](discord-bot-lists/discordbots.org.md)
+* [Discord Bot Reviews](discord-bot-lists/discordbotreviews.xyz.md)
 
 ## Helpful Links
 
