@@ -10,6 +10,7 @@
 
 ## Discord Bot Lists
 
+* [Crystal Bot List](discord-bot-lists/crystalbotlist.uk.md)
 * [Discord Bots](discord-bot-lists/discordbots.org.md)
 * [Discord Bot Reviews](discord-bot-lists/discordbotreviews.xyz.md)
 * [Discord Boats](discord-bot-lists/discord-boats.md)
